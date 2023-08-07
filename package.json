@@ -1,0 +1,21 @@
+{
+  "name": "react-dynamic-routes-loader",
+  "version": "0.1.0",
+  "description": "Create react-router routes dynamically with Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.2.18",
+    "@types/react-dom": "^18.2.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.14.2"
+  }
+}
